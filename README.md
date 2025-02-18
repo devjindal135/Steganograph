@@ -1,4 +1,3 @@
-```markdown
 # Steganography
 
 Steganography is a Flask-based web application that allows users to encrypt and decrypt secret messages within images using pixel manipulation. The application features a futuristic cyberpunk-themed UI built with Tailwind CSS.
